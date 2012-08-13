@@ -1,7 +1,3 @@
 # PHPExcel
 
-Mirror of various [PHPExcel](http://phpexcel.codeplex.com) releases
-
-## Versions
-
-* [v1.7.7](https://github.com/hoppinger/phpexcel/tree/v1.7.7)
+Mirror of [PHPExcel](http://phpexcel.codeplex.com) v1.7.6
